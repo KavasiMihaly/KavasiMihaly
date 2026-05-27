@@ -11,6 +11,7 @@ Founder of [**OneDayBI**](https://www.onedaybi.com). Conference speaker on Power
 | Project | What it does |
 |---|---|
 | [**OneDayBI Marketplace**](https://github.com/KavasiMihaly/AI-plugins) | Claude Code plugin marketplace — index of all my open-source plugins. Add it with `/plugin marketplace add KavasiMihaly/AI-plugins`. |
+| [**Claude Code Handbook**](https://github.com/KavasiMihaly/Claude-Code-Handbook) | Canonical guides and best practices for building Claude Code agents, skills, hooks, and plugins — distilled from real-world plugin authoring. |
 | [**Claude Code Essentials**](https://github.com/KavasiMihaly/Claude-Code-Essentials) | Hooks for agent action logging and install-command guardrails, plus a token-aware statusline. Installs as a Claude Code plugin. |
 | [**dbt Pipeline Toolkit**](https://github.com/KavasiMihaly/DBT-Pipeline-Plugin) | End-to-end dbt + SQL Server automation. CSV files to a tested star schema with agents, skills, MCP server, and validation hooks. |
 | [**Fabric Dataflow Migration**](https://github.com/KavasiMihaly/Dataflow-to-Notebook-Plugin) | Migrates Power BI Dataflow Gen1 to Microsoft Fabric medallion notebooks. Extracts M, generates bronze + silver PySpark, deploys, validates. |
@@ -28,9 +29,9 @@ Founder of [**OneDayBI**](https://www.onedaybi.com). Conference speaker on Power
 
 ## Currently working on
 
-- A public **Claude Code Handbook** — canonical guides for building agents, skills, hooks, and plugins
 - Conference sessions on agentic data engineering for 2026
 - More posts on the Self-Service BI Blog covering day-to-day use of agentic workflows
+- A unified open-source landing page on [onedaybi.com](https://www.onedaybi.com)
 
 ---
 
