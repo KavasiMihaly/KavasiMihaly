@@ -16,6 +16,12 @@ Founder of [**OneDayBI**](https://www.onedaybi.com). Conference speaker on Power
 | [**dbt Pipeline Toolkit**](https://github.com/KavasiMihaly/DBT-Pipeline-Plugin) | End-to-end dbt + SQL Server automation. CSV files to a tested star schema with agents, skills, MCP server, and validation hooks. |
 | [**Fabric Dataflow Migration**](https://github.com/KavasiMihaly/Dataflow-to-Notebook-Plugin) | Migrates Power BI Dataflow Gen1 to Microsoft Fabric medallion notebooks. Extracts M, generates bronze + silver PySpark, deploys, validates. |
 
+## Delivered sessions
+
+| Date | Session | Event | Materials |
+|---|---|---|---|
+| 7 Nov 2026 | [Agentic Development for Analytics: Build Your AI Toolkit with Subagents, Skills, and MCP](https://sessionize.com/s/mihalykavasi/agentic-development-for-analytics-build-your-ai-to/155049) | Data & AI Builders Conference, Bergamo | [Slides and starter kit](https://github.com/KavasiMihaly/agentic-development-for-analytics-talk-public) |
+
 ---
 
 ## Focus areas
